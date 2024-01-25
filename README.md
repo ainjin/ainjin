@@ -14,7 +14,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ainjin&theme=tokyo-day)](https://github.com/ainjin/github-readme-activity-graph)
 
 
-## 📞 Contact 📞
+## Contact 
 
 <a href="https://www.instagram.com/ain848_k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=DDDDDD"/></a>
 <img src="https://img.shields.io/badge/ain48kim@gmail.com-EA4335?style=&logo=gmail&logoColor=DDDDDD"/></a>
