@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=FFF6B7&height=170&section=header&text=Welcome&&fontSize=80&animation=fadeIn&fontColor=FF8C28&desc=ainjin's%20GitHub%20Profile&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=FFF6B7&height=170&section=header&text=Welcome&&fontSize=80&animation=fadeIn&fontColor=69491A&desc=ainjin's%20GitHub%20Profile&descAlignY=75)
 
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fainjin&count_bg=%23E4B660&title_bg=%23F2AB39&icon=1001tracklists.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## My GitHub
 
@@ -12,6 +12,7 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ainjin&theme=tokyo-day)](https://github.com/ainjin/github-readme-activity-graph)
+
 
 ## 📞 Contact 📞
 
@@ -24,9 +25,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ainjin&label=Profile%20views&color=0e75b6&style=flat" alt="ainjin" /> </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FE80,100:FFF6B7&height=150&animation=fadeIn&section=footer&)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2AB39,100:FFD954&height=150&animation=fadeIn&section=footer&)
 
 
 
