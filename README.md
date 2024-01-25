@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ainjin&label=Profile%20views&color=0e75b6&style=flat" alt="ainjin" /> </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=footer&DDDDDDDDDDDD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FE80,100:FFF6B7&height=150&animation=fadeIn&section=footer&)
 
 
 
