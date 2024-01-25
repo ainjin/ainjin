@@ -15,6 +15,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ainjin&theme=tokyo-day)](https://github.com/ainjin/github-readme-activity-graph)
 
 
+
 ## Contact 
 
 <a href="https://www.instagram.com/ain848_k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=DDDDDD"/></a>
@@ -27,8 +28,6 @@
 
 
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2AB39,100:FFD954&height=150&animation=fadeIn&section=footer)
 
 
 
