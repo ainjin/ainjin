@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=FFF6B7&height=170&section=header&text=Welcome&fontSize=80&animation=twinkling&fontColor=69491A&desc=ainjin's%20GitHub%20Profile&descAlignY=75)              
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F2AB39,100:FFD954&height=150&&section=footer&text=Welcome&fontSize=80&animation=twinkling&fontColor=69491A&desc=ainjin's%20GitHub%20Profile&descAlignY=75)              
 
 
 
@@ -28,7 +28,8 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2AB39,100:FFD954&height=150&animation=fadeIn&section=footer&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2AB39,100:FFD954&height=150&animation=fadeIn&section=footer)
+
 
 
 
