@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=FFF6B7&height=170&section=header&text=Welcome&&fontSize=80&animation=fadeIn&fontColor=69491A&desc=ainjin's%20GitHub%20Profile&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=FFF6B7&height=170&section=header&text=Welcome&fontSize=80&animation=twinkling&fontColor=69491A&desc=ainjin's%20GitHub%20Profile&descAlignY=75)              
+
 
 
 
