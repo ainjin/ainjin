@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F2AB39,100:FFD954&height=150&&section=footer&text=Welcome&fontSize=80&animation=twinkling&fontColor=69491A&desc=ainjin's%20GitHub%20Profile&descAlignY=75)              
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&pause=1000&color=F2AB39&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hi%2C+I'm+here)](https://git.io/typing-svg)
 
 
 
