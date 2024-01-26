@@ -6,6 +6,7 @@
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&size=40&pause=1000&color=69491A&random=false&width=435&lines=My+GitHub)](https://git.io/typing-svg)
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainjin&show_icons=true&theme=gruvbox_light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainjin&hide_progress=true&show_icons=true&theme=gruvbox_light)
 
