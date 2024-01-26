@@ -4,7 +4,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&size=40&pause=1000&color=F2AB39&random=false&width=435&lines=My+GitHub)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&size=40&pause=1000&color=69491A&random=false&width=435&lines=My+GitHub)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainjin&show_icons=true&theme=gruvbox_light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainjin&hide_progress=true&show_icons=true&theme=gruvbox_light)
 
@@ -12,12 +12,13 @@
 
 
 
-## Contact 
+
+## 📞 Contact 📞
 
 <a href="https://www.instagram.com/ain848_k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=DDDDDD"/></a>
 <img src="https://img.shields.io/badge/ain48kim@gmail.com-EA4335?style=&logo=gmail&logoColor=DDDDDD"/></a>
 
-## Languages
+## Languages 🔊
 
 <a href="https://www.instagram.com/ain848_k/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=&logo=cplusplus&logoColor=DDDDD"/></a> 
 
