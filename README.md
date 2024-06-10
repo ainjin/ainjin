@@ -26,7 +26,7 @@
 
   Languages 🔊
 
-<img src="https://img.shields.io/badge/C++-00599C?style=#512BD4=cplusplus&logoColor=DDDDD"/></a> 
+<img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the-badge&logo=#512BD4&logoColor=8000FF" />
 
   Coming soon...
 
